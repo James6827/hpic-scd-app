@@ -1,6 +1,7 @@
 import { Link, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
+import "./App.css";
 
 export default function App() {
   const navStyle = {
